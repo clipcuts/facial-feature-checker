@@ -1,0 +1,23 @@
+{
+  "name": "next-app",
+  "version": "1.0.0",
+  "description": "A modern web application to compare facial features using Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["next.js", "face-api.js", "sharp", "multer", "axios"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "face-api.js": "^0.22.2",
+    "sharp": "^0.29.1",
+    "multer": "^1.4.3",
+    "axios": "^0.24.0"
+  }
+}
